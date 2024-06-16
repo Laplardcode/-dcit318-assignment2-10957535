@@ -1,0 +1,5 @@
+c:\users\mensah kwadwo ofori\onedrive\documents\visual studio 2015\Projects\ConsoleApplication2\Abstract Classes And Methds\bin\Debug\Abstract Classes And Methds.exe.config
+c:\users\mensah kwadwo ofori\onedrive\documents\visual studio 2015\Projects\ConsoleApplication2\Abstract Classes And Methds\bin\Debug\Abstract Classes And Methds.exe
+c:\users\mensah kwadwo ofori\onedrive\documents\visual studio 2015\Projects\ConsoleApplication2\Abstract Classes And Methds\bin\Debug\Abstract Classes And Methds.pdb
+c:\users\mensah kwadwo ofori\onedrive\documents\visual studio 2015\Projects\ConsoleApplication2\Abstract Classes And Methds\obj\Debug\Abstract Classes And Methds.exe
+c:\users\mensah kwadwo ofori\onedrive\documents\visual studio 2015\Projects\ConsoleApplication2\Abstract Classes And Methds\obj\Debug\Abstract Classes And Methds.pdb
